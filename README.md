@@ -8,3 +8,5 @@
 - 📫 How to reach me: sskender@pm.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: there will only be 21 million Bitcoins
+- 🌐 My page: [svenskender.from.hr](http://svenskender.from.hr)
+- ☕ Support: [Buy me a coffee](https://www.buymeacoffee.com/sskender)
