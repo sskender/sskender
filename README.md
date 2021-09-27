@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on DeFi
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on anything blockchain related
 - 🤔 I’m looking for help with competitive programming
 - 💬 Ask me about anything
